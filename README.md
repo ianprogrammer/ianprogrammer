@@ -1,8 +1,8 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About me
--  I'm a Software Developer from Brazil
--  Currently working as Software Developer at **IFood**.
+-  I'm a Software Engineerfrom Brazil
+-  Currently working as Software Engineer at **IFood**.
 
 ### Current Stack
 
