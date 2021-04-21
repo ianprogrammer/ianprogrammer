@@ -13,9 +13,5 @@
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
-<a href="https://twitter.com/ianprogrammer">
-  <code><img alt="My twitter" width="28" src="logos/twitter.svg" /></code>
-</a>
-
 <br/>
 
