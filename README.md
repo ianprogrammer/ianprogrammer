@@ -1,9 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianprogrammer&hide=contribs,prs&show_icons=true&theme=radical)  
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianprogrammer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Current Stack
 
 - 👨‍ Software Developer at **IFood**.
