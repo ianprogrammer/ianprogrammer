@@ -13,7 +13,7 @@
 
 ### Have Worked with
 
--  Programming: Frontend, Backend, C#, NodeJS, Typescript, NextJS, React, Angular.
+-  Programming: Frontend, Backend, C#, NodeJS, Typescript, NestJS, React, Angular.
 -  Infra: Azure, Firebase, Azure DevOps (CI/CD).
 -  Databases : MS SQL Server, Oracle, MySQL.
 -  Server Technologies: Azure AKS, Azure ACR, NGINX.
