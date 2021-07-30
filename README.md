@@ -2,7 +2,7 @@
 
 ### About me
 -  I'm a Software Engineer from Brazil
--  Currently working as Software Engineer at **IFood**.
+-  Currently working as Software Engineer at **Estratégia**.
 
 ### Current Stack
 
