@@ -23,17 +23,4 @@
 <a href="https://www.linkedin.com/in/ianoliveiradev/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
-
 <br/>
-
-
-## Coding Activity 👩🏽‍💻
-
-<br/>
-
-<div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ianprogrammer&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Ian's github stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianprogrammer&hide=Makefile&layout=compact" height="150" alt="Ian's top langs" />
-</div>
-
